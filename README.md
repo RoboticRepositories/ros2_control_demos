@@ -6,6 +6,13 @@ This repository provides templates for the development of `ros2_control`-enabled
 
 ### First-Time Users
 
+#### With [osrf/rocker](https://github.com/osrf/rocker):
+```
+rocker --x11 ghcr.io/robinlabuji/ros2_control_demos:master
+```
+
+#### Natively:
+
 If you're just starting out, we suggest to look at the minimal example: `ros2_control_demo_bringup/launch/rrbot_system_position_only.launch.py`.
 
 Also pay attention to these files:
