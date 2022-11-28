@@ -8,7 +8,7 @@ This repository provides templates for the development of `ros2_control`-enabled
 
 #### With [osrf/rocker](https://github.com/osrf/rocker):
 ```
-rocker --x11 ghcr.io/robinlabuji/ros2_control_demos:master
+rocker --x11 ghcr.io/roboticrepositories/ros2_control_demos:master
 ```
 
 #### Natively:
